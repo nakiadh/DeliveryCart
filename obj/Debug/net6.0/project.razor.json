@@ -16313,6 +16313,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Shoppers\\Edit.cshtml",
+      "TargetPath": "Pages\\Shoppers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Shoppers\\Index.cshtml",
+      "TargetPath": "Pages\\Shoppers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Shoppers\\Details.cshtml",
+      "TargetPath": "Pages\\Shoppers\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Customers\\Index.cshtml",
       "TargetPath": "Pages\\Customers\\Index.cshtml",
       "FileKind": "mvc"
@@ -16328,8 +16343,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Shoppers\\Create.cshtml",
+      "TargetPath": "Pages\\Shoppers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\athou\\OneDrive\\2022 Fall\\CIDM 4390 70\\DeliveryCart\\Pages\\Shoppers\\Delete.cshtml",
+      "TargetPath": "Pages\\Shoppers\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

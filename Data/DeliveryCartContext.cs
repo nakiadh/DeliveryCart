@@ -13,4 +13,6 @@ using DeliveryCart.Models;
         }
 
         public DbSet<DeliveryCart.Models.Customer> Customer { get; set; } = default!;
+
+        public DbSet<DeliveryCart.Models.Shopper>? Shopper { get; set; }
     }
